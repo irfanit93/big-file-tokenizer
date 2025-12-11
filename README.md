@@ -1,5 +1,8 @@
 # big-file-tokenizer
 Tokenize texts in a big file using streams in Node js and get token count for every unique word in a file
+<br/>
+It can tokenize big files for example 100MB files takes approximately 25 seconds to 30 seconds to process.
+<br/>
 
 Usage:
 
